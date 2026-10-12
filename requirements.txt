@@ -1,0 +1,11 @@
+langchain
+langchain-ollama
+langchain-community
+langchain-openai
+langchain-groq
+langchain_text_splitters
+arxiv
+wikipedia
+streamlit
+faiss-cpu
+pypdf
