@@ -6,7 +6,7 @@ An intelligent AI-powered search assistant built with **LangChain, Groq, and Str
 
 <!-- Add your screenshot to the images folder and name it screenshot.png -->
 
-![AI Search Engine Agent]("C:\Users\asrit\Videos\Screenshots\Screenshot 2026-10-12 130753.png")
+
 
 ## ✨ Features
 
