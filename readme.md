@@ -2,10 +2,6 @@
 
 An intelligent AI-powered search assistant built with **LangChain, Groq, and Streamlit** that automatically selects the appropriate tool to answer user queries. It supports academic research through Arxiv, general knowledge through Wikipedia, and question answering over uploaded PDFs using Retrieval-Augmented Generation (RAG).
 
-## 📸 Project Screenshot
-
-<!-- Add your screenshot to the images folder and name it screenshot.png -->
-
 
 
 ## ✨ Features
